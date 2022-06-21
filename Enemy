@@ -1,0 +1,92 @@
+-- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
+
+shared.stop = true -- stops the player at any time if true
+-- CONFIG:
+shared.ftime = 9*60 + 25 -- time in seconds for the song to finish (extended by |)
+shared.delay = nil -- delay overides the ftime
+shared.tempo = nil -- tempo overides the delay
+
+shared.scr = [[ [4psgj] 
+[O3] 
+[Hf] f j f d 
+d p [4is] s 8 
+s s p e 8 p [4is] s 8 s s [ep] 
+8 p a [30u] a a a [WO] 7 
+O [30ua] a 7 a a O [W7] O [4is] 
+s 8 s s [ep] 8 p [4s] i s 8 s 
+[ep] 8 p a 3 7 a a [WO] 
+7 O [3ua] a 7 a a [WO] 7 W 
+s [4pj] 8 [osh] e 8 [4isg] 8 
+[ets] [Ouf] 3 7 W 
+[Oyd] 7 3 7 W [pj] 7 
+[4s] [pj] 8 [osh] 8 [4isg] q 
+8 [ets] [Ouf] 3 7 
+W [OHa] 3 7 W 
+[4et] 8 [eyd] 8 [uf] 
+[4yd] [ts] [ep] e 8 [3yd] [ts] 
+[7yd] [ts] [Wyd] [ts] d 7 s t [yd] 3 [ts] [pj] W 
+7 [4et] 8 [eyd] 8 
+[uf] [4yd] [ts] [ep] e 8 [3y] d 
+[ts] [7yd] [ts] [Wyd] [ts] p 3 7 
+[ep] [We] [ep] [ts] 4 8 a [ek] 
+8 k p [4j] 8 u [ef] 8 y 
+[3d] f j W f d [3d] 
+7 [ep] W p p [ts] 4 8 a [ek] 
+p j 4 8 u [ef] 8 
+y [3d] f 7 j W f d 7 3 
+e e e t p [4is] s 8 s 
+s p e 8 p [is] 4 s 8 s s [ep] 
+8 p [30a] a 7 a a O W 7 O 
+[30ua] a 7 a a O W 7 O [4is] s 
+8 s s [ep] 8 p [4is] s 8 s s [ep] 
+8 p [30ua] a 7 a a [WO] 7 
+f f [Oa] 3 [Oa] 7 [Oaf] [Oaf] W 7 [4psj] 
+8 [sh] o 8 [4isg] 8 
+[ets] [Ouf] 3 7 W 
+[Oyd] 3 7 W [pj] 7 
+[4psj] 8 [sh] o 8 [4isg] 
+8 [ets] [up] r 
+[OH0ad] 
+[4et] 8 y [ed] 8 [uf] [4d] y 
+[ts] [ep] e 8 [3yd] [ts] d y 
+s t [Wyd] [ts] [yd] [ts] [yd] 3 [ts] [pj] W 
+7 [4et] 8 [eyd] 8 [uf] 
+[4yd] [ets] p e e 8 [3yd] [ts] 
+[yd] [ts] [Wyd] s j p 3 7 [ep] 
+[We] p t s 4 a [ek] 
+p j 4 8 u f e 8 y [3d] 
+f j W f d [3d] 7 
+[ep] [Wep] p t s 4 a k e 
+p [4j] 8 u [ef] x 8 
+y [3d] f j W f d 7 3 
+[7d] W d 7 [4sg] p 
+[esg] p 8 [4sg] [8p] [esj] 
+p 8 [3af] O 7 [Waf] O 7 [3f] 
+[0ua] [O7] [ad] O [4sg] [8p] 
+[sg] e [8p] [4sg] [8p] [esj] 
+[8p] [3af] 0 O 7 [Waf] O 
+[3ua] O 7 [Wad] 7 g 4 c 
+e 8 e 8 
+[ejb] 8 f [3x] 7 W 
+7 W 7 W 7 g [4c] 
+8 e 8 e 8 
+b j 8 b f [3x] 7 W 
+7 W 7 W 
+y 
+[3d] [ts] [yd] [ts] 
+[Wyd] [ts] [yd] s t [yd] 3 [ts] p W 
+7 [4et] [yd] e 8 [uf] 
+[4yd] t [ep] e 8 [3yd] [ts] [yd] 
+[ts] [Wyd] [ts] p j 3 7 [ep] [We] 
+p [ts] 4 8 [ey] d 8 
+[uf] [4yd] [ts] [ep] e 8 [3yd] 7 
+s t [7yd] [ts] [Wyd] [ts] [yd] 7 t s [yd] 3 [ts] [pj] 7 
+W 7 [et] 4 8 [eyd] 
+8 [uf] [yd] 4 [ts] [8ep] e 8 
+[3yd] s t d y t [Wyd] [ts] [pj] 7 3 
+7 [ep] [We] p t [4is] p [eis] 
+8 s [4is] q 8 s [eis] s [8s] 
+s [30ua] O [Wua] 0 7 3 
+7 O [WO] O [us] [4is] p 8 
+[is] e 8 s [4is] 8 s [is] e s 
+[8s] s [30ua] f j W f d ]]
